@@ -17,22 +17,22 @@ Year: 2020
 ## Screen shot
 
 ### Home
-<img src="demo/1.png" alt="Home" width="300"/>
+<img src="demo/1.png" alt="Home" width="700"/>
 
 ### Login
-<img src="demo/2.png" alt="Login" width="300"/>
+<img src="demo/2.png" alt="Login" width="700"/>
 
 ### Signup
-<img src="demo/3.png" alt="Signup" width="300"/>
+<img src="demo/3.png" alt="Signup" width="700"/>
 
 ### View Data
-<img src="demo/4.png" alt="View Data" width="300"/>
+<img src="demo/4.png" alt="View Data" width="700"/>
 
 ### Edit
-<img src="demo/5.png" alt="Edit" width="300"/>
+<img src="demo/5.png" alt="Edit" width="700"/>
 
 ### Logout
-<img src="demo/6.png" alt="Logout" width="300"/>
+<img src="demo/6.png" alt="Logout" width="700"/>
 
 ## Authors
 
