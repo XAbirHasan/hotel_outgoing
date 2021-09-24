@@ -8,7 +8,7 @@ This project was developed in 2020. This is a simple hostel outgoing system. My 
 Name: Hotel Outgoing <br>
 Programming Language: Python <br>
 GUI: Tkinter <br>
-Project No: update this <br>
+Project No: 17 <br>
 Year: 2020
 
 ## Demo Video
