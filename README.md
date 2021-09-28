@@ -1,5 +1,5 @@
 # hotel_outgoing
- A simple outgoing system using python tkinter.(2020)
+A simple outgoing system using python tkinter.(2020)
 
 This project was developed in 2020. This is a simple hostel outgoing system. My first use of python tkinter (GUI). This also has a mysql database connection to save user data.
 
@@ -12,7 +12,7 @@ Project No: 17 <br>
 Year: 2020
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/1bBcfG0_Xd4/0.jpg)](http://www.youtube.com/watch?v=1bBcfG0_Xd4 "Zetta || android dev") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZEukJHCWdQk/0.jpg)](http://www.youtube.com/watch?v=ZEukJHCWdQk "hotel_outgoing || python dev")
 
 ## Screen shot
 
